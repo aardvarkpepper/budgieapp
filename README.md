@@ -48,3 +48,4 @@ Open VSCode terminal; in that terminal type
   ```
   npm start
   ```
+The terminal must remain open for the back end to function.  Closing it will shut down the back end.
