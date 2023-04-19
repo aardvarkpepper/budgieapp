@@ -35,7 +35,7 @@ node_modules
 .DS_Store
 ``` 
 
-  Save all changes.  In termial, open VSCode by entering
+  Save all changes.  In terminal, open VSCode by entering
   ```
   code .
   ```
