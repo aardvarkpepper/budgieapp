@@ -1,7 +1,7 @@
 # Back End for Budget App:
 Create an Express project in terminal with
 ```
-npm init-y
+npm init -y
 npm i express dotenv nodemon cors
 touch .env .gitignore
 ```
