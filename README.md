@@ -6,6 +6,8 @@ npm i express dotenv nodemon cors
 touch .env .gitignore
 ```
 
+Overwrite existing files if any with repository files.
+
 In .env, enter
 
 ```
@@ -13,7 +15,6 @@ PORT=3001
 ```
 
 (or other port of your choice.)
-Overwrite existing files with repository files.
 
 In package.json,
 ```
