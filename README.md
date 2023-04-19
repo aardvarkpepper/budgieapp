@@ -2,6 +2,10 @@
 
 It is assumed your versions are the same as what's used, and that you have VSCode installed.
 
+npm 9.4.0
+node 18.9.0
+(and other dependencies I may not know to specify.)
+
 Create an Express project in Mac terminal with
 ```
 mkdir <name of your choice>
