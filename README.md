@@ -1,3 +1,7 @@
+Back End: https://github.com/aardvarkpepper/budgieapp
+Front End: https://github.com/aardvarkpepper/budgieappfront
+Trello: https://trello.com/b/zQEznyPW/budgeting-app-apr-18-2023
+
 # Back End for Budget App:
 
 It is assumed your versions are the same as what's used, and that you have VSCode installed.
