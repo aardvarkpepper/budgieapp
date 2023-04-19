@@ -1,6 +1,6 @@
 module.exports = [
     {
-        id:  00001,
+        idNumber:  00001,
         item_name: "Hamster Food",
         amount: 1111,
         date:  "2023-04-01",
@@ -8,7 +8,7 @@ module.exports = [
         category: "pets",
     },
     {
-        id:  00011,
+        idNumber:  00011,
         item_name: "Chicken",
         amount: 2222,
         date:  "2023-04-02",
@@ -16,7 +16,7 @@ module.exports = [
         category: "food",
     },
     {
-        id:  00111,
+        idNumber:  00111,
         item_name: "Programming for Dummies",
         amount: 3333,
         date:  "2023-04-03",
